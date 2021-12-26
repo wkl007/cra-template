@@ -7,7 +7,7 @@ If you don't specify a template (for example, `--template typescript`), this tem
 For example:
 
 ```sh
-npx create-react-app my-app --template @wkl--007/cra-template
+npm init react-app my-app --template @wkl--007/cra-template
 
 # or
 
